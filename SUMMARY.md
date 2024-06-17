@@ -51,5 +51,4 @@
 
 * [Facebook](<README (1).md>)
 * [GitHub](https://github.com/SRISCAN)
-* [Telegram](https://t.me/poolscan\_official)
 * [Twitter](https://twitter.com/i/flow/login?redirect\_after\_login=%2Fmblock\_official)

@@ -11,6 +11,6 @@ Welcome to the go-to portal for in-depth information about the SRI Blockchain (S
 **SRI Blockchain Docs**. This part is available in the sections below is for anyone who wants to learn more about SRI Blockchain without going into detail that only developers would usually need to know.
 
 {% hint style="info" %}
-Join our [Telegram group](https://t.me/poolscan\_official)\
+Join our Telegram group\
 Or say hello at: hello@sriscan.com
 {% endhint %}
