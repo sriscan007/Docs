@@ -1,6 +1,6 @@
 # Network Details
 
-### Testnet
+### Mainnet
 
 - Network name: **SRI**
 - ChanId: **95432**
